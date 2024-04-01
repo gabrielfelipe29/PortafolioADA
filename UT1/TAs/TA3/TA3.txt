@@ -1,0 +1,12 @@
+TA3 Ejercicio 1
+
+1) No cumple con smart porque no es especifico al momento de decir que es facil, y tampoco es medible ya que no existe una métrica de facibilidad
+2) Cumple con smart
+3) No cumple con smart porque no es especifico al momento de decir cuales son los navegadores
+4) No cumple con smart porque puede ser que los datos no sean relevantes y tampoco especifico
+5) No cumple con smart porque no es especifico al decir no decir el tamaño del "volumen de datos"
+6) No cumple con smart porque no es especifico al declarar que es "seguro"
+7) No cumple con smart porque no es especifico al declarar las versiones del SO
+8) Cumple con smart
+9) No cumple con smart al no ser especifico en decir que se va a poder personalizar
+10) Cumple con smart
