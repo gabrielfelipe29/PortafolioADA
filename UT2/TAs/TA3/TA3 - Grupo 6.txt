@@ -1,0 +1,25 @@
+1 - De un mismo BE, pueden existir unicamente un solo BUC.
+ 
+De un mismo BUC, pueden existir varios PUC. Un ejemplo es un BUC de retirar dinero de una cuenta,
+donde un PUC puede ser ir al cajero y que la persona te de el dinero, y otro seria ir al cajero automatico.
+
+Existe un BUC por BE, ya que si no hay BE no hay BUC.
+Se pueden tener varios BUC por BE, y el proceso de los BUC converge en algun momento.
+
+
+2 - Un mismo BUC puede ser activado por un mismo BE. Por ejemplo, un pedido en linea y un pedido por telefono.
+
+3 - Procesos luego de chocar el auto: Llamar a la aseguradora, pasarle los datos, esperar al asegurador, el asegurador saca fotos del accidente, el asegurador le toma la declaración al cliente
+
+
+La solucion seria completar un formulario con los datos del cliente, 
+con la declaracion del cliente y las fotos tomadas por el cliente.
+
+
+4 - El BE es uno solo, el del cliente pide la jubilacion. El proceso 
+empieza con el formulario de la mesa de entrada que se imprime y se envia a 
+Finanzas, Desarrollo, Sociales y Secretaria General donde son controlados.
+Una vez sellados, vuelve a la Mesa de Entrada. 
+
+El limite para la automatización sería la impresión. Se podría digitalizar este
+proceso y cambiar el formulario impreso por uno digital.
